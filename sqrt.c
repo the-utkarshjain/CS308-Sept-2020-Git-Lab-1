@@ -18,7 +18,7 @@ int main(int argc, char* argv[]) {
 
 	int input = atoi(argv[1]);
 	if(input < 0) {
-		printf("Sqrt of %d is %f i\n",input, sqrt(abs(input)));
+		printf("Sqrt root of %d is %f i\n",input, sqrt(abs(input)));
 		return(0);
 	}
 	printf("Sqrt of %d is %f\n",input,sqrt(input));
