@@ -1,6 +1,6 @@
 /* This program computes the square root of a
 positive number. 
-Name: Utkarsh Jain
+Utkarsh Jain
 Roll no: B17029
 Hi
 */
